@@ -1,18 +1,22 @@
-[
-  {
-    "id":1,
-    "job_name":"RPSC Ground Water Department Various Post Online Form 2022",
-    "min_age":20,
-    "max_age":40,
-    "app_start":"2022-02-03",
-    "app_end":"2022-03-02"
-  },
-   {
-    "id":2,
-    "job_name":"UP NHM CHO Online Form 2022",
-    "min_age":null,
-    "max_age":35,
-    "app_start":"2022-02-04",
-    "app_end":"2022-02-13"
-  }
-  ]
+{
+  "latest_jobs": [
+    {
+      "id": 1,
+      "job_name": "RPSC Ground Water Department Various Post Online Form 2022",
+      "min_age": 20,
+      "max_age": 40,
+      "app_start": "2022-02-03",
+      "app_end": "2022-03-02"
+    },
+    {
+      "id": 2,
+      "job_name": "UP NHM CHO Online Form 2022",
+      "min_age": null,
+      "max_age": 35,
+      "app_start": "2022-02-04",
+      "app_end": "2022-02-13"
+    }
+  ],
+  "admit_card": [],
+  "result": []
+}
